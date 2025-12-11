@@ -4,7 +4,7 @@ I am Yamuna and I specialize in Python automation(Backend developer) and I have 
 
 📍 Chennai, India  
 📧 yamunathenu2002@gmail.com  
-📞 +91 9080507795  
+  
 🔗 [GitHub](https://github.com/Yamuna369)  
 
 ---
